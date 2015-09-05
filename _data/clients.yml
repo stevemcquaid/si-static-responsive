@@ -1,0 +1,65 @@
+retail:
+  - name: GAP
+    description: Experience master plan for an interactive museum
+    image: clients_sm_gap.jpg
+  - name: PREIT
+    description: Experience master plan for an interactive museum
+    image: clients_sm_preit.jpg
+  - name: TripleFive
+    description: Experience master plan for an interactive museum
+    image: clients_sm_555.jpg
+  - name: Macerich
+    description: Experience master plan for an interactive museum
+    image: clients_sm_macerich.jpg
+commercial:
+  - name: CBRE
+    description: Experience master plan for an interactive museum
+    image: clients_sm_cbre.jpg
+  - name: The Durst Organization
+    description: Experience master plan for an interactive museum
+    image: clients_sm_durst.jpg
+  - name: Cushman and Wakefield
+    description: Experience master plan for an interactive museum
+    image: clients_sm_cushwake.jpg
+  - name: SL Green Reality Corp
+    description: Experience master plan for an interactive museum
+    image: clients_sm_slgreen.jpg
+healthcare:
+  - name: Wisconsin Institute for Discovery
+    description: Experience master plan for an interactive museum
+    image: clients_sm_widiscovery.jpg
+  - name: Saint Luke's Hospital
+    description: Experience master plan for an interactive museum
+    image: clients_sm_stlukes.jpg
+  - name: San Francisco General Hospital Foundation
+    description: Experience master plan for an interactive museum
+    image: clients_sm_sfgeneralhospital.jpg
+  - name: UCSF Medical Center
+    description: Experience master plan for an interactive museum
+    image: clients_sm_ucsf.jpg
+corporate:
+  - name: Salesforce
+    description: Experience master plan for an interactive museum
+    image: clients_sm_salesforce.jpg
+  - name: The Carlyle Group
+    description: Experience master plan for an interactive museum
+    image: clients_sm_carlyfe.jpg
+  - name: Microsoft
+    description: Experience master plan for an interactive museum
+    image: clients_sm_microsoft.jpg
+  - name: GoldmanSachs
+    description: Experience master plan for an interactive museum
+    image: clients_sm_goldmansachs.jpg
+sports:
+  - name: Sports Lengends At Camden Yards
+    description: Experience master plan for an interactive museum
+    image: clients_sm_sportslegends.jpg
+  - name: Events DC
+    description: Experience master plan for an interactive museum
+    image: clients_sm_eventsDC.jpg
+  - name: Monumental Sports and Entertainment
+    description: Experience master plan for an interactive museum
+    image: clients_sm_monumental.jpg
+  - name: MCCA
+    description: Experience master plan for an interactive museum
+    image: clients_sm_mcca.jpg

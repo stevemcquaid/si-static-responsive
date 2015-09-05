@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article>
+  <div class="container">
+    <header>
+      <h1 class="heading">Team</h1>
+    </header>
+    <ul class="team-list">
+      {% for member in site.pages %}
+        {% if member.layout == 'member' %}
+        <li class="member">
+          <a href="{{ member.url }}">
+            <img src="img/{{ member.image }}" alt="">
+            <h2>{{ member.person }}</h2>
+            <h3>{{ member.title }}</h3>
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</article>

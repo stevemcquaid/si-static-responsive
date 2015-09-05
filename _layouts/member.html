@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article>
+  <div class="container">
+    <h1 class="heading">Team</h1>
+  </div>
+
+  <div class="image-clip">
+    <img src="/img/{{ page.image }}" alt="">
+  </div>
+
+  <div class="team-display container">
+    <div class="row">
+      <div class="col-sm-3 team-display-context">
+        <h1>{{ page.person }}</h1>
+        <h2>{{ page.title }}</h2>
+      </div>
+      <div class="col-sm-9 content">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+</article>
